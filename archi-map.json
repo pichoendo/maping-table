@@ -1,1 +1,1 @@
-
+{"record":[{"name":"aktifitas","instance":"main","database":"prd-db-xxl-1"},{"name":"aktifitas","instance":"feat-1","database":"dev-db-xxl-3"},{"name":"aktifitas","instance":"dev","database":"dev-db-xxl-1"},{"name":"metis","instance":"main","database":"prd-db-xxl-2"},{"name":"metis","instance":"dev","database":"dev-db-xxl-1"}],"metadata":{"id":"682e959b8561e97a50194d2b","private":false,"createdAt":"2025-05-22T03:10:19.002Z"}}
